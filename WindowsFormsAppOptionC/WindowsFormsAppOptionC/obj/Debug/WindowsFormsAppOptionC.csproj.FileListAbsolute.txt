@@ -1,0 +1,10 @@
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\bin\Debug\WindowsFormsAppOptionC.exe.config
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\bin\Debug\WindowsFormsAppOptionC.exe
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\bin\Debug\WindowsFormsAppOptionC.pdb
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\obj\Debug\WindowsFormsAppOptionC.csprojResolveAssemblyReference.cache
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\obj\Debug\WindowsFormsAppOptionC.Form1.resources
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\obj\Debug\WindowsFormsAppOptionC.Properties.Resources.resources
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\obj\Debug\WindowsFormsAppOptionC.csproj.GenerateResource.Cache
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\obj\Debug\WindowsFormsAppOptionC.csproj.CoreCompileInputs.cache
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\obj\Debug\WindowsFormsAppOptionC.exe
+\\homes.cms.waikato.ac.nz\people\HX68\win\Documents\101\Week 9\WindowsFormsAppOptionC\WindowsFormsAppOptionC\obj\Debug\WindowsFormsAppOptionC.pdb
